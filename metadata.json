@@ -1,0 +1,6 @@
+{
+  "name": "NASA SPHEREx Mission Explorer",
+  "description": "Official NASA feeds, current and past mission updates, plain-English explanations, and an interactive milestone timeline for NASA's SPHEREx space observatory.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
